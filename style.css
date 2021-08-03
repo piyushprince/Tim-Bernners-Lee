@@ -66,3 +66,14 @@ h1 {
 font-family: 'MonteCarlo', cursive;
     color:crimson;
 }
+
+a {
+text-decoration: underline; 
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.Articles:hover{
+color:aquamarine;
+}
+
